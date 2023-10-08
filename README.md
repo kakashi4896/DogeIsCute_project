@@ -29,5 +29,5 @@ Our project is to use machine learning to predict the space weather which mainly
 ### nasaomnireader
 - https://github.com/lkilcommons/nasaomnireader
 
-### PatchTST
-- https://github.com/yuqinie98/PatchTST
+### arxiv.org
+- https://arxiv.org/abs/2205.01972
